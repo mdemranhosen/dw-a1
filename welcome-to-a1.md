@@ -26,6 +26,18 @@ Verified DW lesson order:
 | bitte | please / you are welcome | অনুগ্রহ করে / স্বাগতম |
 | Nouns are capitalized. | German nouns start with a capital letter. | জার্মানে noun বড় হাতের অক্ষর দিয়ে শুরু হয়। |
 
+### Safe formality rule
+
+| Situation | Best choice | Bangla tip |
+|---|---|---|
+| friend / child | `du` | বন্ধু বা ছোটদের সাথে `du` |
+| stranger / older adult / office | `Sie` | অচেনা বা formal জায়গায় `Sie` |
+| not sure | start with `Sie` | নিশ্চিত না হলে `Sie` দিয়েই শুরু করো |
+| other person uses `du` with you | often mirror it | অন্যজন `du` বললে সাধারণত তুমিও `du` ব্যবহার করতে পারো |
+
+Quick memory: when in doubt, match `du` with `du` and `Sie` with `Sie`.  
+দ্রুত মনে রাখো: সন্দেহ হলে অন্যজন যেটা ব্যবহার করছে, সেটাই match করো।
+
 ## Lesson 1 - Hallo!
 
 DW focus: greeting people, asking how they are, answering, and hearing formal vs informal speech.  
@@ -148,6 +160,17 @@ Mini drill:
 1. `My name is Rafi.` -> `Mein Name ist Rafi.`
 2. `How do you spell that?` -> `Wie schreibt man das?`
 3. `Once again, please.` -> `Noch einmal, bitte.`
+
+## Survival combo
+
+Use these three together when you miss something in real life.  
+বাস্তবে কিছু বুঝতে না পারলে এই তিনটা একসাথে খুব কাজে লাগে।
+
+| German | English | Bangla |
+|---|---|---|
+| Entschuldigung. | Excuse me. | মাফ করবেন। |
+| Können Sie mir helfen? | Can you help me? | আপনি কি আমাকে সাহায্য করতে পারেন? |
+| Noch einmal, bitte. | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। |
 
 ## One-page review
 
