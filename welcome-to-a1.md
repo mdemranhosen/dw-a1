@@ -1,4 +1,4 @@
-# DW Nico's Weg A1 - Welcome to A1 (Quick Notes)
+# DW Nico's Weg A1 - Welcome to A1 (Speaking Workbook)
 
 Compact English + Bangla notes aligned more closely with the official DW Welcome lessons and scenes.
 
@@ -16,6 +16,13 @@ Verified DW lesson order:
 - Read one lesson in 5 to 8 minutes.
 - Say every German line aloud 3 times.
 - Cover the English and Bangla columns and test yourself.
+
+## Workbook routine
+
+1. Echo: repeat every model line 3 times.
+2. Swap: change one word only and say the new sentence.
+3. Answer fast: look at the English and answer in German within 2 seconds.
+4. Role-play: say both sides of the dialogue aloud.
 
 ## Super-quick basics
 
@@ -171,6 +178,47 @@ Use these three together when you miss something in real life.
 | Entschuldigung. | Excuse me. | মাফ করবেন। |
 | Können Sie mir helfen? | Can you help me? | আপনি কি আমাকে সাহায্য করতে পারেন? |
 | Noch einmal, bitte. | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। |
+
+## Speaking workbook
+
+### Echo drill
+
+Say each line 3 times without stopping.
+
+- `Guten Morgen!`
+- `Wie geht es Ihnen?`
+- `Danke, gut! Und Ihnen?`
+- `Hallo! Wie geht's dir?`
+- `Ins Zentrum, bitte.`
+- `Auf Wiedersehen!`
+- `Noch einmal, bitte.`
+
+### Swap drill
+
+1. `Wie geht es Ihnen?` -> `Wie geht's dir?`
+2. `Auf Wiedersehen!` -> `Tschüss!`
+3. `Ins Zentrum, bitte.` -> `Zum Hotel Königshof.`
+4. `Wie bitte?` -> `Noch einmal, bitte.`
+5. `Brauchst du Hilfe?` -> `Können Sie mir helfen?`
+
+### Tiny role-play
+
+A: `Guten Morgen! Wie geht es Ihnen?`
+B: `Danke, gut! Und Ihnen?`
+A: `Gut, danke. Auf Wiedersehen!`
+B: `Auf Wiedersehen!`
+
+A: `Entschuldigung. Können Sie mir helfen?`
+B: `Ja.`
+A: `Noch einmal, bitte.`
+
+## Common mistakes for English speakers
+
+| Mistake | Better German | Bangla note |
+|---|---|---|
+| saying German `w` like English `w` | `wie` sounds like `vee` | German `w` = ইংরেজি `v`-এর মতো |
+| using `du` with every stranger | start with `Sie` if unsure | অচেনা বড়দের সাথে আগে `Sie` safer |
+| mixing `dir` and `Ihnen` | informal `dir`, formal `Ihnen` | formal আর informal একসাথে মিশিও না |
 
 ## One-page review
 
