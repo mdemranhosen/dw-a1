@@ -18,6 +18,18 @@ Source: https://learngerman.dw.com/en/nicos-weg/c-36519789
 - Say each short line aloud 3 times.
 - Use the mini drill to make your own sentence.
 
+## W-question ladder
+
+These are the main question patterns behind Chapter 1.  
+এগুলো Chapter 1-এর মূল question patterns।
+
+| German | English | Bangla |
+|---|---|---|
+| Wer? | Who? | কে? |
+| Wie? | How? | কীভাবে / কেমন? |
+| Woher? | From where? | কোথা থেকে? |
+| Wo? | Where? | কোথায়? |
+
 ## Lesson 1 - Ich heiße Emma
 
 DW focus: saying your name and asking another person's name.  
@@ -118,6 +130,24 @@ Mini drill:
 1. `He comes from Spain.` -> `Er kommt aus Spanien.`
 2. `His bag is gone.` -> `Seine Tasche ist weg.`
 3. `His aunt lives in Germany.` -> `Seine Tante wohnt in Deutschland.`
+
+## Build your own intro
+
+Use this pattern to make your own 4-line self-introduction.  
+নিজের 4-line self-introduction বানাতে এই pattern ব্যবহার করো।
+
+| Step | German pattern | Bangla idea |
+|---|---|---|
+| 1 | `Ich heiße ...` | আমার নাম ... |
+| 2 | `Ich komme aus ...` | আমি ... থেকে এসেছি |
+| 3 | `Ich wohne in ...` | আমি ...-এ থাকি |
+| 4 | `Und das ist ...` | আর এ হলো ... |
+
+Example:
+
+`Ich heiße Rafi. Ich komme aus Bangladesch. Ich wohne in Dhaka. Und das ist mein Freund Omar.`
+
+বাংলা অর্থ: `আমার নাম রাফি। আমি বাংলাদেশ থেকে এসেছি। আমি ঢাকায় থাকি। আর এ হলো আমার বন্ধু ওমর।`
 
 ## Chapter 1 fast review
 
