@@ -1,4 +1,4 @@
-# DW Nico's Weg A1 - Chapter 1 Meeting People (Quick Notes)
+# DW Nico's Weg A1 - Chapter 1 Meeting People (Speaking Workbook)
 
 Compact English + Bangla notes aligned more closely with the official DW Chapter 1 lessons and scenes.
 
@@ -17,6 +17,13 @@ Source: https://learngerman.dw.com/en/nicos-weg/c-36519789
 - Read the German first, then check the English and Bangla.
 - Say each short line aloud 3 times.
 - Use the mini drill to make your own sentence.
+
+## Workbook routine
+
+1. Repeat the model question.
+2. Answer with your own name, city, or country.
+3. Swap one word and say the new sentence aloud.
+4. Do the role-play without looking at the English.
 
 ## W-question ladder
 
@@ -148,6 +155,48 @@ Example:
 `Ich heiße Rafi. Ich komme aus Bangladesch. Ich wohne in Dhaka. Und das ist mein Freund Omar.`
 
 বাংলা অর্থ: `আমার নাম রাফি। আমি বাংলাদেশ থেকে এসেছি। আমি ঢাকায় থাকি। আর এ হলো আমার বন্ধু ওমর।`
+
+## Speaking workbook
+
+### Quick response drill
+
+Answer immediately in German.
+
+- `Wie heißt du?` -> `Ich heiße ...`
+- `Wer bist du?` -> `Ich bin ...`
+- `Woher kommst du?` -> `Ich komme aus ...`
+- `Wo wohnst du?` -> `Ich wohne in ...`
+- `Wer ist das?` -> `Das ist ...`
+
+### Swap drill
+
+1. `Ich heiße Nico.` -> `Ich heiße Rafi.`
+2. `Ich komme aus Spanien.` -> `Ich komme aus Bangladesch.`
+3. `Ich wohne in Sevilla.` -> `Ich wohne in Dhaka.`
+4. `Das ist Nico.` -> `Das ist Omar.`
+5. `Seine Tasche ist weg.` -> `Meine Tasche ist weg.`
+
+### Tiny role-play
+
+A: `Wie heißt du?`
+B: `Ich heiße ...`
+A: `Woher kommst du?`
+B: `Ich komme aus ...`
+A: `Wo wohnst du?`
+B: `Ich wohne in ...`
+
+A: `Wer ist das?`
+B: `Das ist ...`
+A: `Hat er ein Problem?`
+B: `Ja. Seine Tasche ist weg.`
+
+## Common mistakes for English speakers
+
+| Mistake | Better German | Bangla note |
+|---|---|---|
+| `Ich heiße aus Spanien.` | `Ich komme aus Spanien.` | দেশ বলার জন্য `komme aus` ব্যবহার করো |
+| `Woher wohnst du?` | `Wo wohnst du?` | `woher` origin, `wo` place |
+| `Ich bin from Dhaka.` style mixing | `Ich wohne in Dhaka.` | German sentence-এ English শব্দ ঢোকিও না |
 
 ## Chapter 1 fast review
 
