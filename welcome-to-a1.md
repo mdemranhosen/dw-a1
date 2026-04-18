@@ -31,15 +31,15 @@ Verified DW lesson order:
 | du | informal you | তুমি |
 | Sie | formal you | আপনি |
 | bitte | please / you are welcome | অনুগ্রহ করে / স্বাগতম |
-| Nouns are capitalized. | German nouns start with a capital letter. | জার্মানে noun বড় হাতের অক্ষর দিয়ে শুরু হয়। |
+| Nouns are capitalized. | German nouns start with a capital letter. | জার্মানে noun বড় হাতের অক্ষর দিয়ে শুরু হয়। |
 
 ### Safe formality rule
 
 | Situation | Best choice | Bangla tip |
 |---|---|---|
 | friend / child | `du` | বন্ধু বা ছোটদের সাথে `du` |
-| stranger / older adult / office | `Sie` | অচেনা বা formal জায়গায় `Sie` |
-| not sure | start with `Sie` | নিশ্চিত না হলে `Sie` দিয়েই শুরু করো |
+| stranger / older adult / office | `Sie` | অচেনা বা formal জায়গায় `Sie` |
+| not sure | start with `Sie` | নিশ্চিত না হলে `Sie` দিয়েই শুরু করো |
 | other person uses `du` with you | often mirror it | অন্যজন `du` বললে সাধারণত তুমিও `du` ব্যবহার করতে পারো |
 
 Quick memory: when in doubt, match `du` with `du` and `Sie` with `Sie`.  
@@ -48,10 +48,10 @@ Quick memory: when in doubt, match `du` with `du` and `Sie` with `Sie`.
 ## Lesson 1 - Hallo!
 
 DW focus: greeting people, asking how they are, answering, and hearing formal vs informal speech.  
-DW ফোকাস: greet করা, কেমন আছে জিজ্ঞেস করা, উত্তর দেওয়া, আর formal vs informal speech শোনা।
+DW ফোকাস: greet করা, কেমন আছে জিজ্ঞেস করা, উত্তর দেওয়া, আর formal vs informal speech শোনা।
 
 Scene cue: Nico hears airport audio greetings, then Emma talks to him about his bag.  
-সিন ইঙ্গিত: নিকো এয়ারপোর্টে greeting শোনে, তারপর এমা তার ব্যাগ নিয়ে কথা বলে।
+সিন ইঙ্গিত: নিকো এয়ারপোর্টে greeting শোনে, তারপর এমা তার ব্যাগ নিয়ে কথা বলে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
@@ -77,7 +77,7 @@ DW focus: catching useful short words and phrases inside fast everyday speech.
 DW ফোকাস: দ্রুত everyday speech-এর মধ্যে ছোট useful words আর phrases ধরা।
 
 Scene cue: Nico hears short phrases at the airport and in the taxi scene.  
-সিন ইঙ্গিত: নিকো এয়ারপোর্টে আর ট্যাক্সির দৃশ্যে ছোট ছোট phrases শোনে।
+সিন ইঙ্গিত: নিকো এয়ারপোর্টে আর ট্যাক্সির দৃশ্যে ছোট ছোট phrases শোনে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
@@ -89,7 +89,7 @@ Scene cue: Nico hears short phrases at the airport and in the taxi scene.
 | Hey, Stopp! | hay shtop | Hey, stop! | এই, থামুন! |
 
 Quick note: this lesson is about recognizing short real-life phrases, not one single grammar rule.  
-দ্রুত নোট: এই lesson-এর কাজ হলো real-life ছোট phrases চেনা, কোনো একটাই grammar rule নয়।
+দ্রুত নোট: এই lesson-এর কাজ হলো real-life ছোট phrases চেনা, কোনো একটাই grammar rule নয়।
 
 Mini drill:
 
@@ -103,12 +103,12 @@ DW focus: saying goodbye in formal and informal ways and handling a short conver
 DW ফোকাস: formal এবং informal ভাবে goodbye বলা, আর ছোট conversation সামলানো।
 
 Scene cue: People at the airport say goodbye, then Lisa asks Nico if he needs help.  
-সিন ইঙ্গিত: এয়ারপোর্টে মানুষ goodbye বলে, তারপর লিজা নিকোকে সাহায্য দরকার কি না জিজ্ঞেস করে।
+সিন ইঙ্গিত: এয়ারপোর্টে মানুষ goodbye বলে, তারপর লিজা নিকোকে সাহায্য দরকার কি না জিজ্ঞেস করে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
 | Tschüss, Martina. | chuess mar-TEE-nah | Bye, Martina. | বাই, মার্টিনা। |
-| Auf Wiedersehen, Herr Tillmanns. | owf VEE-der-zay-en hair TIL-mahns | Goodbye, Mr. Tillmanns. | বিদায়, হের টিলমান্স। |
+| Auf Wiedersehen, Herr Tillmanns. | owf VEE-der-zay-en hair TIL-mahns | Goodbye, Mr. Tillmanns. | বিদায়, হের টিলমান্স। |
 | Gute Reise! | GOO-tuh RYE-zuh | Have a good trip! | শুভ যাত্রা! |
 | Mach's gut! | mahkhs goot | Take care! | ভালো থেকো! |
 | Bis bald! | biss bahlt | See you soon! | শিগগিরই দেখা হবে! |
@@ -127,25 +127,64 @@ Mini drill:
 ## Lesson 4 - Von A bis Z
 
 DW focus: the alphabet, spelling, and asking people to repeat or give more information.  
-DW ফোকাস: alphabet, spelling, আর repeat বা extra information চাওয়া।
+DW ফোকাস: alphabet, spelling, আর repeat বা extra information চাওয়া।
 
 Scene cue: Emma shows her name, Lisa asks about Nico's aunt and address, and Nico practices simple self-introduction.  
-সিন ইঙ্গিত: এমা তার নাম দেখায়, লিজা নিকোর aunt আর address নিয়ে জিজ্ঞেস করে, আর নিকো নিজের পরিচয় অনুশীলন করে।
+সিন ইঙ্গিত: এমা তার নাম দেখায়, লিজা নিকোর aunt আর address নিয়ে জিজ্ঞেস করে, আর নিকো নিজের পরিচয় অনুশীলন করে।
 
 ### Alphabet snapshot
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z  
-পুরো alphabet একবার জোরে পড়ে নাও।
+পুরো alphabet একবার জোরে পড়ে নাও।### Full alphabet pronunciation
 
-### Tricky letters
+Each letter name as Germans say it. The `Say it` column uses simple English-style sounds.  
+প্রতিটি letter-এর নাম জার্মানরা যেভাবে বলে। `Say it` column-এ ইংরেজি-স্টাইলের সহজ উচ্চারণ দেওয়া।
+
+| Letter | Say it | English hint | Bangla hint |
+|---|---|---|---|
+| A | ah | like `a` in `father` | আ |
+| B | bay | like `bay` | বে |
+| C | tsay | starts with `ts` | ৎসে |
+| D | day | like `day` | ডে |
+| E | ay | like `ay` in `say` | এ |
+| F | eff | like English `F` | এফ |
+| G | gay | hard `g` + `ay` | গে |
+| H | hah | like `hah` | হা |
+| I | ee | like `ee` in `see` | ই |
+| J | yot | starts like English `y` | ইয়ট |
+| K | kah | like `kah` | কা |
+| L | ell | like English `L` | এল |
+| M | em | like English `M` | এম |
+| N | en | like English `N` | এন |
+| O | oh | like `oh` | ও |
+| P | pay | like `pay` | পে |
+| Q | koo | like `koo` | কু |
+| R | air | soft throaty `air` | এয়র |
+| S | ess | like English `S` | এস |
+| T | tay | like `tay` | টে |
+| U | oo | like `oo` in `food` | উ |
+| V | fow | sounds like `f` + `ow` | ফাউ |
+| W | vay | sounds like English `V` | ভে |
+| X | iks | like `iks` | ইক্স |
+| Y | uep-see-lon | sounds like German `ü` | উপসিলন |
+| Z | tset | starts with `ts` | ৎসেট |
+| Ä | eh | like `e` in `bed`, longer | এ (লম্বা) |
+| Ö | er | like `er` in `her`, rounded lips | অ্যো (গোল ঠোঁট) |
+| Ü | ue | say `ee` with rounded lips | উয়ে (গোল ঠোঁট) |
+| ß | ess-tset | sharp `s`, like `ss` | এস্‌-ৎসেট |
+
+Memory hook: German `J` = English `Y`, German `W` = English `V`, German `V` = English `F`, German `Z` = `ts`.  
+মনে রাখার কৌশল: জার্মান `J` = ইংরেজি `Y`, জার্মান `W` = ইংরেজি `V`, জার্মান `V` = ইংরেজি `F`, জার্মান `Z` = `ts`।
+
+### Tricky letters (quick recap)
 
 | Letter | Say it | English note | Bangla note |
 |---|---|---|---|
-| J | yot | sounds like English `y` | `y`-এর মতো শোনায় |
-| V | fow | often sounds like `f` | অনেক সময় `ফ`-এর মতো |
+| J | yot | sounds like English `y` | `y`-এর মতো শোনায় |
+| V | fow | often sounds like `f` | অনেক সময় `ফ`-এর মতো |
 | W | vay | sounds like English `v` | `ভ/ভি`-এর মতো |
-| Z | tset | starts with `ts` | `ৎস` দিয়ে শুরু |
-| Ä / Ö / Ü | eh / er / ue | umlaut vowels | উমলাউট-ওয়ালা স্বরধ্বনি |
+| Z | tset | starts with `ts` | `ৎস` দিয়ে শুরু |
+| Ä / Ö / Ü | eh / er / ue | umlaut vowels | উমলাউট-ওয়ালা স্বরধ্বনি |
 | ß | ss | sharp `s` | জোরে `স` |
 
 ### Core phrases
@@ -155,12 +194,12 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 | Mein Name ist Emma. | mine NAH-muh ist EM-mah | My name is Emma. | আমার নাম এমা। |
 | Mein Name ist Nico. | mine NAH-muh ist NEE-koh | My name is Nico. | আমার নাম নিকো। |
 | Und das ist meine Tante. | oont dahs ist MY-nuh TAHN-tuh | And this is my aunt. | আর এ আমার খালা/ফুপু। |
-| Adresse? Straße, Hausnummer? | ah-DRES-suh SHTRAH-suh HOWS-noom-er | Address? Street, house number? | ঠিকানা? রাস্তা, বাড়ি নম্বর? |
-| Wie schreibt man das? | vee shrybt man dahs | How do you spell that? | এটা কীভাবে বানান করা হয়? |
+| Adresse? Straße, Hausnummer? | ah-DRES-suh SHTRAH-suh HOWS-noom-er | Address? Street, house number? | ঠিকানা? রাস্তা, বাড়ি নম্বর? |
+| Wie schreibt man das? | vee shrybt man dahs | How do you spell that? | এটা কীভাবে বানান করা হয়? |
 | Noch einmal, bitte. | nokh EYN-mahl BIT-tuh | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। |
 
 Quick note: this lesson connects names, spelling, and asking for more information.  
-দ্রুত নোট: এই lesson-এ name, spelling, আর extra information চাওয়া একসাথে আসে।
+দ্রুত নোট: এই lesson-এ name, spelling, আর extra information চাওয়া একসাথে আসে।
 
 Mini drill:
 
@@ -217,7 +256,7 @@ A: `Noch einmal, bitte.`
 | Mistake | Better German | Bangla note |
 |---|---|---|
 | saying German `w` like English `w` | `wie` sounds like `vee` | German `w` = ইংরেজি `v`-এর মতো |
-| using `du` with every stranger | start with `Sie` if unsure | অচেনা বড়দের সাথে আগে `Sie` safer |
+| using `du` with every stranger | start with `Sie` if unsure | অচেনা বড়দের সাথে আগে `Sie` safer |
 | mixing `dir` and `Ihnen` | informal `dir`, formal `Ihnen` | formal আর informal একসাথে মিশিও না |
 
 ## One-page review
@@ -228,10 +267,10 @@ A: `Noch einmal, bitte.`
 | And you? informal | আর তুমি? | Und dir? |
 | No problem | সমস্যা নেই | Kein Problem |
 | To the center, please | সেন্টারে, অনুগ্রহ করে | Ins Zentrum, bitte |
-| Goodbye | বিদায় | Auf Wiedersehen |
+| Goodbye | বিদায় | Auf Wiedersehen |
 | Take care | ভালো থেকো | Mach's gut |
 | Do you need help? | তোমার কি সাহায্য দরকার? | Brauchst du Hilfe? |
-| How do you spell that? | এটা কীভাবে বানান করা হয়? | Wie schreibt man das? |
+| How do you spell that? | এটা কীভাবে বানান করা হয়? | Wie schreibt man das? |
 
 ## Daily target
 

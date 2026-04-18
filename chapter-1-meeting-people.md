@@ -35,7 +35,7 @@ These are the main question patterns behind Chapter 1.
 | Wer? | Who? | কে? |
 | Wie? | How? | কীভাবে / কেমন? |
 | Woher? | From where? | কোথা থেকে? |
-| Wo? | Where? | কোথায়? |
+| Wo? | Where? | কোথায়? |
 
 ## Lesson 1 - Ich heiße Emma
 
@@ -43,7 +43,7 @@ DW focus: saying your name and asking another person's name.
 DW ফোকাস: নিজের নাম বলা এবং অন্যের নাম জিজ্ঞেস করা।
 
 Scene cue: In the car, Lisa and Emma practice introductions with Nico.  
-সিন ইঙ্গিত: গাড়িতে লিজা আর এমা নিকোর সাথে পরিচয়ের অনুশীলন করে।
+সিন ইঙ্গিত: গাড়িতে লিজা আর এমা নিকোর সাথে পরিচয়ের অনুশীলন করে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
@@ -65,10 +65,10 @@ Mini drill:
 ## Lesson 2 - Das ist Nico
 
 DW focus: introducing yourself and introducing another person.  
-DW ফোকাস: নিজের পরিচয় দেওয়া এবং অন্য কাউকে পরিচয় করিয়ে দেওয়া।
+DW ফোকাস: নিজের পরিচয় দেওয়া এবং অন্য কাউকে পরিচয় করিয়ে দেওয়া।
 
 Scene cue: Lisa talks to the taxi driver and introduces Nico.  
-সিন ইঙ্গিত: লিজা ট্যাক্সি ড্রাইভারের সাথে কথা বলে এবং নিকোকে পরিচয় করিয়ে দেয়।
+সিন ইঙ্গিত: লিজা ট্যাক্সি ড্রাইভারের সাথে কথা বলে এবং নিকোকে পরিচয় করিয়ে দেয়।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Scene cue: Lisa talks to the taxi driver and introduces Nico.
 | Ist Nicos Tasche in Ihrem Taxi? | ist NEE-kohs TAH-shuh in EE-rem TAK-see | Is Nico's bag in your taxi? | নিকোর ব্যাগ কি আপনার ট্যাক্সিতে আছে? |
 
 Quick note: `ich bin ...` introduces yourself, and `Das ist ...` introduces someone else.  
-দ্রুত নোট: `ich bin ...` দিয়ে নিজের পরিচয়, আর `Das ist ...` দিয়ে অন্যের পরিচয় দেওয়া হয়।
+দ্রুত নোট: `ich bin ...` দিয়ে নিজের পরিচয়, আর `Das ist ...` দিয়ে অন্যের পরিচয় দেওয়া হয়।
 
 Mini drill:
 
@@ -89,10 +89,10 @@ Mini drill:
 ## Lesson 3 - Woher kommst du?
 
 DW focus: talking about names, where you come from, and where you live.  
-DW ফোকাস: নাম, কোথা থেকে এসেছ, আর কোথায় থাকো তা বলা।
+DW ফোকাস: নাম, কোথা থেকে এসেছ, আর কোথায় থাকো তা বলা।
 
 Scene cue: Max asks Nico who he is, where he comes from, and where he lives in Spain.  
-সিন ইঙ্গিত: ম্যাক্স নিকোকে জিজ্ঞেস করে সে কে, কোথা থেকে এসেছে, আর স্পেনের কোথায় থাকে।
+সিন ইঙ্গিত: ম্যাক্স নিকোকে জিজ্ঞেস করে সে কে, কোথা থেকে এসেছে, আর স্পেনের কোথায় থাকে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
@@ -100,11 +100,11 @@ Scene cue: Max asks Nico who he is, where he comes from, and where he lives in S
 | Ich bin Nico. | ikh bin NEE-koh | I am Nico. | আমি নিকো। |
 | Woher kommst du? | voh-HAIR komst doo | Where are you from? | তুমি কোথা থেকে এসেছ? |
 | Ich komme aus Spanien. | ikh KOM-muh ows SHPAN-yen | I come from Spain. | আমি স্পেন থেকে এসেছি। |
-| Wo wohnst du? | voh VOHNST doo | Where do you live? | তুমি কোথায় থাকো? |
-| Ich wohne in Sevilla. | ikh VOH-nuh in seh-VIL-yah | I live in Seville. | আমি সেভিয়ায় থাকি। |
+| Wo wohnst du? | voh VOHNST doo | Where do you live? | তুমি কোথায় থাকো? |
+| Ich wohne in Sevilla. | ikh VOH-nuh in seh-VIL-yah | I live in Seville. | আমি সেভিয়ায় থাকি। |
 
 Quick note: `woher` asks about origin, and `wo` asks about place.  
-দ্রুত নোট: `woher` দিয়ে origin জিজ্ঞেস করা হয়, আর `wo` দিয়ে place জিজ্ঞেস করা হয়।
+দ্রুত নোট: `woher` দিয়ে origin জিজ্ঞেস করা হয়, আর `wo` দিয়ে place জিজ্ঞেস করা হয়।
 
 Mini drill:
 
@@ -115,22 +115,22 @@ Mini drill:
 ## Lesson 4 - Nico hat ein Problem
 
 DW focus: introducing another person and explaining that person's situation.  
-DW ফোকাস: অন্য কাউকে পরিচয় করিয়ে দেওয়া এবং তার পরিস্থিতি বোঝানো।
+DW ফোকাস: অন্য কাউকে পরিচয় করিয়ে দেওয়া এবং তার পরিস্থিতি বোঝানো।
 
 Scene cue: Lisa calls her father and explains Nico's problem.  
-সিন ইঙ্গিত: লিজা তার বাবাকে ফোন করে নিকোর সমস্যার কথা বোঝায়।
+সিন ইঙ্গিত: লিজা তার বাবাকে ফোন করে নিকোর সমস্যার কথা বোঝায়।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
 | Nico hat ein Problem. | NEE-koh haht ayn pro-BLEM | Nico has a problem. | নিকোর একটি সমস্যা আছে। |
 | Er kommt aus Spanien. | air komt ows SHPAN-yen | He comes from Spain. | সে স্পেন থেকে এসেছে। |
-| Seine Tasche ist weg. | ZY-nuh TAH-shuh ist vek | His bag is gone. | তার ব্যাগ হারিয়ে গেছে। |
+| Seine Tasche ist weg. | ZY-nuh TAH-shuh ist vek | His bag is gone. | তার ব্যাগ হারিয়ে গেছে। |
 | Er spricht nicht gut Deutsch. | air shprikht nikht goot doych | He doesn't speak German well. | সে ভালো জার্মান বলতে পারে না। |
 | Seine Tante wohnt in Deutschland. | ZY-nuh TAHN-tuh vohnt in DOYTCH-lahnt | His aunt lives in Germany. | তার খালা/ফুপু জার্মানিতে থাকেন। |
 | Seine Tante hat ein Fahrradgeschäft. | ZY-nuh TAHN-tuh haht ayn FAH-rad-guh-sheft | His aunt has a bicycle shop. | তার খালা/ফুপুর একটি সাইকেলের দোকান আছে। |
 
 Quick note: `er` means `he`, and `seine` means `his`. These help you describe another person.  
-দ্রুত নোট: `er` মানে `সে`, আর `seine` মানে `তার`। এগুলো দিয়ে অন্য কাউকে describe করা যায়।
+দ্রুত নোট: `er` মানে `সে`, আর `seine` মানে `তার`। এগুলো দিয়ে অন্য কাউকে describe করা যায়।
 
 Mini drill:
 
@@ -154,7 +154,7 @@ Example:
 
 `Ich heiße Rafi. Ich komme aus Bangladesch. Ich wohne in Dhaka. Und das ist mein Freund Omar.`
 
-বাংলা অর্থ: `আমার নাম রাফি। আমি বাংলাদেশ থেকে এসেছি। আমি ঢাকায় থাকি। আর এ হলো আমার বন্ধু ওমর।`
+বাংলা অর্থ: `আমার নাম রাফি। আমি বাংলাদেশ থেকে এসেছি। আমি ঢাকায় থাকি। আর এ হলো আমার বন্ধু ওমর।`
 
 ## Speaking workbook
 
@@ -207,10 +207,10 @@ B: `Ja. Seine Tasche ist weg.`
 | Das ist ... | This is ... | এ হলো ... |
 | Woher kommst du? | Where are you from? | তুমি কোথা থেকে এসেছ? |
 | Ich komme aus ... | I come from ... | আমি ... থেকে এসেছি। |
-| Wo wohnst du? | Where do you live? | তুমি কোথায় থাকো? |
+| Wo wohnst du? | Where do you live? | তুমি কোথায় থাকো? |
 | Ich wohne in ... | I live in ... | আমি ...-এ থাকি। |
 | Nico hat ein Problem. | Nico has a problem. | নিকোর একটি সমস্যা আছে। |
-| Seine Tasche ist weg. | His bag is gone. | তার ব্যাগ হারিয়ে গেছে। |
+| Seine Tasche ist weg. | His bag is gone. | তার ব্যাগ হারিয়ে গেছে। |
 
 ## 5-minute daily speaking drill
 

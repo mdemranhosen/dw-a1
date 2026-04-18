@@ -33,7 +33,93 @@ Source: https://learngerman.dw.com/en/nicos-weg/c-36519789
 | 20, 30, 40 ... | `zwanzig`, `dreißig`, `vierzig` | tens আলাদা মনে রাখো |
 | 21-99 | `einundzwanzig` | আগে ছোট সংখ্যা, পরে tens |
 | phone zero | `null` | ফোনে `0` = `null` |
-| 100+ | `einhundertvierundvierzig` | বড় সংখ্যাও parts-এ ভেঙে বলো |
+| 100+ | `einhundertvierundvierzig` | বড় সংখ্যাও parts-এ ভেঙে বলো |## Numbers pronunciation table
+
+The `Say it` column uses simple English-style sounds.  
+`Say it` column-এ ইংরেজি-স্টাইলের সহজ উচ্চারণ দেওয়া।
+
+### 0 to 12
+
+| Number | German | Say it | Bangla |
+|---|---|---|---|
+| 0 | null | nool | শূন্য |
+| 1 | eins | ayns | এক |
+| 2 | zwei | tsvye | দুই |
+| 3 | drei | drye | তিন |
+| 4 | vier | feer | চার |
+| 5 | fünf | fuenf | পাঁচ |
+| 6 | sechs | zeks | ছয় |
+| 7 | sieben | ZEE-ben | সাত |
+| 8 | acht | ahkht | আট |
+| 9 | neun | noyn | নয় |
+| 10 | zehn | tsayn | দশ |
+| 11 | elf | elf | এগারো |
+| 12 | zwölf | tsvelf | বারো |
+
+### 13 to 19
+
+| Number | German | Say it | Bangla |
+|---|---|---|---|
+| 13 | dreizehn | DRYE-tsayn | তেরো |
+| 14 | vierzehn | FEER-tsayn | চৌদ্দ |
+| 15 | fünfzehn | FUENF-tsayn | পনেরো |
+| 16 | sechzehn | ZEKH-tsayn | ষোলো |
+| 17 | siebzehn | ZEEP-tsayn | সতেরো |
+| 18 | achtzehn | AHKHT-tsayn | আঠারো |
+| 19 | neunzehn | NOYN-tsayn | উনিশ |
+
+### Tens (20 to 100)
+
+| Number | German | Say it | Bangla |
+|---|---|---|---|
+| 20 | zwanzig | TSVAHN-tsikh | বিশ |
+| 30 | dreißig | DRYE-sikh | ত্রিশ |
+| 40 | vierzig | FEER-tsikh | চল্লিশ |
+| 50 | fünfzig | FUENF-tsikh | পঞ্চাশ |
+| 60 | sechzig | ZEKH-tsikh | ষাট |
+| 70 | siebzig | ZEEP-tsikh | সত্তর |
+| 80 | achtzig | AHKHT-tsikh | আশি |
+| 90 | neunzig | NOYN-tsikh | নব্বই |
+| 100 | (ein)hundert | (ayn-)HOON-dert | একশ |
+
+### How to build 21 to 99
+
+Pattern: small number + `und` + tens. Always one word.  
+সূত্র: ছোট সংখ্যা + `und` + tens। একসাথে এক শব্দ।
+
+| Number | German | Say it | Bangla |
+|---|---|---|---|
+| 21 | einundzwanzig | AYN-oont-tsvahn-tsikh | একুশ |
+| 22 | zweiundzwanzig | TSVYE-oont-tsvahn-tsikh | বাইশ |
+| 31 | einunddreißig | AYN-oont-drye-sikh | একত্রিশ |
+| 38 | achtunddreißig | AHKHT-oont-drye-sikh | আটত্রিশ |
+| 44 | vierundvierzig | FEER-oont-feer-tsikh | চুয়াল্লিশ |
+| 67 | siebenundsechzig | ZEE-ben-oont-zekh-tsikh | সাতষট্‌ট্টি |
+| 83 | dreiundachtzig | DRYE-oont-ahkht-tsikh | তিরাশি |
+| 99 | neunundneunzig | NOYN-oont-noyn-tsikh | নিরানব্বই |
+
+### Above 100
+
+| Number | German | Say it | Bangla |
+|---|---|---|---|
+| 100 | (ein)hundert | (ayn-)HOON-dert | একশ |
+| 101 | hunderteins | HOON-dert-ayns | একশ এক |
+| 136 | hundertsechsunddreißig | HOON-dert-zeks-oont-drye-sikh | একশ ছত্রিশ |
+| 144 | hundertvierundvierzig | HOON-dert-feer-oont-feer-tsikh | একশ চুয়াল্লিশ |
+| 200 | zweihundert | TSVYE-hoon-dert | দুইশ |
+| 1000 | tausend | TOW-zent | এক হাজার |
+
+Quick tips:
+
+- For phone numbers, say each digit separately: `null sieben drei`.
+- For house numbers, say it as a normal number: `144` = `hundertvierundvierzig`.
+- `dreißig` is the only tens word with `ß`; the rest end in `-zig`.
+
+দ্রুত টিপস:
+
+- ফোন নম্বরে প্রতিটি ডিজিট আলাদা করে বলো: `null sieben drei`।
+- বাড়ির নম্বর সাধারণ সংখ্যার মতো বলো: `144` = `hundertvierundvierzig`।
+- `dreißig`-এ `ß` থাকে, বাকি tens-এ `-zig` থাকে।
 
 ## Lesson 1 - Zahlen von 1 bis 100
 
@@ -41,15 +127,15 @@ DW focus: counting to 100 and using numbers in context.
 DW ফোকাস: 100 পর্যন্ত গোনা এবং context-এ numbers ব্যবহার করা।
 
 Scene cue: On the way to a birthday party, Emma helps Nico count and notice numbers like 31, 38, and 83.  
-সিন ইঙ্গিত: জন্মদিনের পার্টিতে যাওয়ার পথে এমা নিকোকে 31, 38, আর 83-এর মতো সংখ্যা বুঝতে সাহায্য করে।
+সিন ইঙ্গিত: জন্মদিনের পার্টিতে যাওয়ার পথে এমা নিকোকে 31, 38, আর 83-এর মতো সংখ্যা বুঝতে সাহায্য করে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
 | eins, zwei, drei | ayns, tsvye, drye | one, two, three | এক, দুই, তিন |
-| vier, fünf, sechs | fee-er, fuenf, zeks | four, five, six | চার, পাঁচ, ছয় |
-| sieben, acht, neun | ZEE-ben, ahkht, noyn | seven, eight, nine | সাত, আট, নয় |
+| vier, fünf, sechs | feer, fuenf, zeks | four, five, six | চার, পাঁচ, ছয় |
+| sieben, acht, neun | ZEE-ben, ahkht, noyn | seven, eight, nine | সাত, আট, নয় |
 | zehn, elf, zwölf | tsayn, elf, tsvelf | ten, eleven, twelve | দশ, এগারো, বারো |
-| Wie ist die Hausnummer? | vee ist dee HOWS-noom-er | What is the house number? | বাড়ি নম্বর কত? |
+| Wie ist die Hausnummer? | vee ist dee HOWS-noom-er | What is the house number? | বাড়ি নম্বর কত? |
 | 38 oder 83? | aht-und-DRYE-sikh OH-der drye-und-AHKHT-sikh | 38 or 83? | 38 না 83? |
 | Das sind 31 Zahlen. | dahs zint ayn-und-DRYE-sikh TSAH-len | That is 31 numbers. | ওটা 31টি সংখ্যা। |
 
@@ -65,22 +151,22 @@ Mini drill:
 ## Lesson 2 - Wichtige Nummern
 
 DW focus: saying age and giving phone numbers.  
-DW ফোকাস: বয়স বলা এবং ফোন নম্বর দেওয়া।
+DW ফোকাস: বয়স বলা এবং ফোন নম্বর দেওয়া।
 
 Scene cue: At Lotte's birthday, Lisa talks about age, and Nico hears a radio phone number.  
-সিন ইঙ্গিত: লোট্টের জন্মদিনে বয়স নিয়ে কথা হয়, আর নিকো রেডিওতে একটি ফোন নম্বর শোনে।
+সিন ইঙ্গিত: লোট্টের জন্মদিনে বয়স নিয়ে কথা হয়, আর নিকো রেডিওতে একটি ফোন নম্বর শোনে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Wie alt ist Lotte jetzt? | vee alt ist LOT-tuh yetst | How old is Lotte now? | লোট্টের এখন বয়স কত? |
-| Sie ist acht. | zee ist ahkht | She is eight. | তার বয়স আট। |
-| Emma ist auch acht Jahre alt. | EM-mah ist owkh ahkht YAH-ruh alt | Emma is also eight years old. | এমারও বয়স আট বছর। |
-| Die Telefonnummer ist 0800 7773344. | dee teh-leh-FOHN-noom-er ist null-ahkht-hoon-dert ... | The phone number is 0800 7773344. | ফোন নম্বর হলো 0800 7773344। |
+| Wie alt ist Lotte jetzt? | vee alt ist LOT-tuh yetst | How old is Lotte now? | লোট্টের এখন বয়স কত? |
+| Sie ist acht. | zee ist ahkht | She is eight. | তার বয়স আট। |
+| Emma ist auch acht Jahre alt. | EM-mah ist owkh ahkht YAH-ruh alt | Emma is also eight years old. | এমারও বয়স আট বছর। |
+| Die Telefonnummer ist 0800 7773344. | dee teh-leh-FOHN-noom-er ist null-acht-null-null ZEE-ben ZEE-ben ZEE-ben drye drye feer feer | The phone number is 0800 7773344. | ফোন নম্বর হলো 0800 7773344। |
 | dreimal die Sieben | DRYE-mahl dee ZEE-ben | three times the seven | তিনবার সাত |
 | zweimal die Drei, zweimal die Vier | TSVYE-mahl dee drye, TSVYE-mahl dee feer | two times the three, two times the four | দুইবার তিন, দুইবার চার |
 
 Quick note: age in German uses `sein`: `Ich bin ... Jahre alt.`  
-দ্রুত নোট: বয়স বলার সময় German-এ `sein` ব্যবহার হয়: `Ich bin ... Jahre alt.`
+দ্রুত নোট: বয়স বলার সময় German-এ `sein` ব্যবহার হয়: `Ich bin ... Jahre alt.`
 
 Mini drill:
 
@@ -91,10 +177,10 @@ Mini drill:
 ## Lesson 3 - Adressen
 
 DW focus: giving personal information like name, residence, and phone details.  
-DW ফোকাস: নাম, থাকার জায়গা, আর phone/address details দেওয়া।
+DW ফোকাস: নাম, থাকার জায়গা, আর phone/address details দেওয়া।
 
 Scene cue: Lisa exchanges numbers, then corrects Nico on the radio and spells out an address.  
-সিন ইঙ্গিত: লিজা ফোন নম্বর আদান-প্রদান করে, তারপর রেডিওতে নিকোর হয়ে address spell করে বলে।
+সিন ইঙ্গিত: লিজা ফোন নম্বর আদান-প্রদান করে, তারপর রেডিওতে নিকোর হয়ে address spell করে বলে।
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
@@ -104,10 +190,10 @@ Scene cue: Lisa exchanges numbers, then corrects Nico on the radio and spells ou
 | Er sucht seine Tasche. | air zookht ZY-nuh TAH-shuh | He is looking for his bag. | সে তার ব্যাগ খুঁজছে। |
 | Die Tasche ist schwarz. | dee TAH-shuh ist shvarts | The bag is black. | ব্যাগটি কালো। |
 | Schreinerstraße 144 | SHRY-ner-shtrah-suh ein-hundert-feer-und-fair-tsikh | Schreiner Street 144 | Schreinerstraße 144 |
-| mit R | mit air | with R | `R` দিয়ে |
+| mit R | mit air | with R | `R` দিয়ে |
 
 Quick note: when spelling an address, slow down and separate the street name from the house number.  
-দ্রুত নোট: address বলার সময় street name আর house number আলাদা করে ধীরে বলো।
+দ্রুত নোট: address বলার সময় street name আর house number আলাদা করে ধীরে বলো।
 
 Mini drill:
 
@@ -127,7 +213,7 @@ Scene cue: At the police station, Jürgen Brunner speaks formally with Nico and 
 |---|---|---|---|
 | Guten Tag, Jürgen Brunner mein Name. | GOO-ten tahk YUER-gen BROON-er mine NAH-muh | Good day, my name is Jürgen Brunner. | শুভ দিন, আমার নাম ইউর্গেন ব্রুনার। |
 | Sie sind Nico? | zee zint NEE-koh | Are you Nico? | আপনি কি নিকো? |
-| Herr González, freut mich sehr. | hair gon-SAH-les froyt mikh zair | Mr. González, pleased to meet you. | হের গনসালেস, আপনাকে পেয়ে ভালো লাগলো। |
+| Herr González, freut mich sehr. | hair gon-SAH-les froyt mikh zair | Mr. González, pleased to meet you. | হের গনসালেস, আপনাকে পেয়ে ভালো লাগলো। |
 | Wie kann ich Ihnen helfen? | vee kahn ikh EE-nen HEL-fen | How can I help you? | আমি আপনাকে কীভাবে সাহায্য করতে পারি? |
 | Wie ist Ihr Geburtsdatum? | vee ist eer guh-BOORTS-dah-toom | What is your date of birth? | আপনার জন্মতারিখ কী? |
 | Ich wohne in der Wagnergasse 136. | ikh VOH-nuh in dair VAG-ner-gahs-suh ein-hundert-zeks-und-DRYE-sikh | I live at Wagnergasse 136. | আমি Wagnergasse 136-এ থাকি। |
@@ -135,7 +221,7 @@ Scene cue: At the police station, Jürgen Brunner speaks formally with Nico and 
 | Haben Sie eine Adresse? | HAH-ben zee EYE-nuh ah-DRES-suh | Do you have an address? | আপনার কি কোনো ঠিকানা আছে? |
 
 Quick note: formal German here uses `Sie`, `Ihr`, and `Ihnen`.  
-দ্রুত নোট: এখানে formal German-এ `Sie`, `Ihr`, আর `Ihnen` ব্যবহার হয়।
+দ্রুত নোট: এখানে formal German-এ `Sie`, `Ihr`, আর `Ihnen` ব্যবহার হয়।
 
 Mini drill:
 
@@ -183,19 +269,19 @@ B: `Mein Geburtsdatum ist ...`
 
 | Mistake | Better German | Bangla note |
 |---|---|---|
-| `I have 20 years.` | `Ich bin zwanzig Jahre alt.` | বয়সে `haben` না, `sein` ব্যবহার করো |
+| `I have 20 years.` | `Ich bin zwanzig Jahre alt.` | বয়সে `haben` না, `sein` ব্যবহার করো |
 | `31 = dreißigeins` | `31 = einunddreißig` | German-এ আগে ছোট সংখ্যা, পরে tens |
 | saying phone `0` like English `zero` | say `null` | ফোন নম্বরে `0` = `null` |
-| using `du` at the police office | use `Sie / Ihr / Ihnen` | office বা formal জায়গায় `Sie` safe |
+| using `du` at the police office | use `Sie / Ihr / Ihnen` | office বা formal জায়গায় `Sie` safe |
 
 ## Chapter 2 fast review
 
 | German | English | Bangla |
 |---|---|---|
-| Wie alt bist du? | How old are you? | তোমার বয়স কত? |
-| Ich bin ... Jahre alt. | I am ... years old. | আমার বয়স ... বছর। |
+| Wie alt bist du? | How old are you? | তোমার বয়স কত? |
+| Ich bin ... Jahre alt. | I am ... years old. | আমার বয়স ... বছর। |
 | Meine Nummer ist ... | My number is ... | আমার নম্বর ... |
-| Wie schreibt man das? | How do you spell that? | এটা কীভাবে বানান করা হয়? |
+| Wie schreibt man das? | How do you spell that? | এটা কীভাবে বানান করা হয়? |
 | Haben Sie eine Adresse? | Do you have an address? | আপনার কি কোনো ঠিকানা আছে? |
 | Wie ist Ihr Geburtsdatum? | What is your date of birth? | আপনার জন্মতারিখ কী? |
 | Wie kann ich Ihnen helfen? | How can I help you? | আমি আপনাকে কীভাবে সাহায্য করতে পারি? |
