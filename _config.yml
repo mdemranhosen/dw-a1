@@ -1,0 +1,7 @@
+title: DW Nico's Weg A1 Notes
+description: Compact English + Bangla speaking workbook for DW Nico's Weg A1
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
