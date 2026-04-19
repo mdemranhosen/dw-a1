@@ -55,12 +55,12 @@ Scene cue: Nico hears airport audio greetings, then Emma talks to him about his 
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Guten Morgen! | GOO-ten MOR-gen | Good morning! | শুভ সকাল! |
-| Wie geht es Ihnen? | vee GAYT es EE-nen | How are you? formal | আপনি কেমন আছেন? |
-| Danke, gut! Und Ihnen? | DAN-kuh goot oont EE-nen | Fine, thanks. And you? | ভালো, ধন্যবাদ। আর আপনি? |
-| Hallo! Wie geht's dir? | hah-LOH vee GAYTS deer | Hi! How are you? informal | হাই! তুমি কেমন আছ? |
-| Super, danke. Und dir? | ZOO-per DAN-kuh oont deer | Great, thanks. And you? | দারুণ, ধন্যবাদ। আর তুমি? |
-| Entschuldigung? | ent-SHOOL-dee-goong | Sorry? / Excuse me? | কী বললেন? / মাফ করবেন? |
+| Guten Morgen! [🔊](audio/phrases/welcome/guten-morgen.m4a) | GOO-ten MOR-gen | Good morning! | শুভ সকাল! |
+| Wie geht es Ihnen? [🔊](audio/phrases/welcome/wie-geht-es-ihnen.m4a) | vee GAYT es EE-nen | How are you? formal | আপনি কেমন আছেন? |
+| Danke, gut! Und Ihnen? [🔊](audio/phrases/welcome/danke-gut-und-ihnen.m4a) | DAN-kuh goot oont EE-nen | Fine, thanks. And you? | ভালো, ধন্যবাদ। আর আপনি? |
+| Hallo! Wie geht's dir? [🔊](audio/phrases/welcome/wie-gehts-dir.m4a) | hah-LOH vee GAYTS deer | Hi! How are you? informal | হাই! তুমি কেমন আছ? |
+| Super, danke. Und dir? [🔊](audio/phrases/welcome/super-danke-und-dir.m4a) | ZOO-per DAN-kuh oont deer | Great, thanks. And you? | দারুণ, ধন্যবাদ। আর তুমি? |
+| Entschuldigung? [🔊](audio/phrases/welcome/entschuldigung.m4a) | ent-SHOOL-dee-goong | Sorry? / Excuse me? | কী বললেন? / মাফ করবেন? |
 
 Quick note: `Ihnen` is formal and `dir` is informal.  
 দ্রুত নোট: `Ihnen` formal, আর `dir` informal।
@@ -82,10 +82,10 @@ Scene cue: Nico hears short phrases at the airport and in the taxi scene.
 | German | Say it | English | Bangla |
 |---|---|---|---|
 | Mist! | mist | Oh no! / Damn! | ধুর! / ওহ না! |
-| Noch mal! | nokh mahl | Again! | আরেকবার! |
-| Ins Zentrum, bitte. | ins TSEN-troom BIT-tuh | To the center, please. | সেন্টারে, অনুগ্রহ করে। |
+| Noch mal! [🔊](audio/phrases/welcome/noch-mal.m4a) | nokh mahl | Again! | আরেকবার! |
+| Ins Zentrum, bitte. [🔊](audio/phrases/welcome/ins-zentrum-bitte.m4a) | ins TSEN-troom BIT-tuh | To the center, please. | সেন্টারে, অনুগ্রহ করে। |
 | Zum Hotel Königshof. | tsoom ho-TEL KER-nigs-hof | To Hotel Königshof. | হোটেল Königshof-এ। |
-| Okay, kein Problem. | oh-KAY kyne pro-BLEM | Okay, no problem. | ঠিক আছে, সমস্যা নেই। |
+| Okay, kein Problem. [🔊](audio/phrases/welcome/kein-problem.m4a) | oh-KAY kyne pro-BLEM | Okay, no problem. | ঠিক আছে, সমস্যা নেই। |
 | Hey, Stopp! | hay shtop | Hey, stop! | এই, থামুন! |
 
 Quick note: this lesson is about recognizing short real-life phrases, not one single grammar rule.  
@@ -107,12 +107,12 @@ Scene cue: People at the airport say goodbye, then Lisa asks Nico if he needs he
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Tschüss, Martina. | chuess mar-TEE-nah | Bye, Martina. | বাই, মার্টিনা। |
-| Auf Wiedersehen, Herr Tillmanns. | owf VEE-der-zay-en hair TIL-mahns | Goodbye, Mr. Tillmanns. | বিদায়, হের টিলমান্স। |
-| Gute Reise! | GOO-tuh RYE-zuh | Have a good trip! | শুভ যাত্রা! |
-| Mach's gut! | mahkhs goot | Take care! | ভালো থেকো! |
-| Bis bald! | biss bahlt | See you soon! | শিগগিরই দেখা হবে! |
-| Brauchst du Hilfe? | browkhst doo HIL-fuh | Do you need help? | তোমার কি সাহায্য দরকার? |
+| Tschüss, Martina. [🔊](audio/phrases/welcome/tschuess.m4a) | chuess mar-TEE-nah | Bye, Martina. | বাই, মার্টিনা। |
+| Auf Wiedersehen, Herr Tillmanns. [🔊](audio/phrases/welcome/auf-wiedersehen.m4a) | owf VEE-der-zay-en hair TIL-mahns | Goodbye, Mr. Tillmanns. | বিদায়, হের টিলমান্স। |
+| Gute Reise! [🔊](audio/phrases/welcome/gute-reise.m4a) | GOO-tuh RYE-zuh | Have a good trip! | শুভ যাত্রা! |
+| Mach's gut! [🔊](audio/phrases/welcome/machs-gut.m4a) | mahkhs goot | Take care! | ভালো থেকো! |
+| Bis bald! [🔊](audio/phrases/welcome/bis-bald.m4a) | biss bahlt | See you soon! | শিগগিরই দেখা হবে! |
+| Brauchst du Hilfe? [🔊](audio/phrases/welcome/brauchst-du-hilfe.m4a) | browkhst doo HIL-fuh | Do you need help? | তোমার কি সাহায্য দরকার? |
 | Ja! Hilfe! | yah HIL-fuh | Yes! Help! | হ্যাঁ! সাহায্য! |
 
 Quick note: `Tschüss` and `Mach's gut` are casual. `Auf Wiedersehen` is formal and safer with strangers.  
@@ -142,36 +142,36 @@ Each letter name as Germans say it. The `Say it` column uses simple English-styl
 
 | Letter | Say it | English hint | Bangla hint |
 |---|---|---|---|
-| A | ah | like `a` in `father` | আ |
-| B | bay | like `bay` | বে |
-| C | tsay | starts with `ts` | ৎসে |
-| D | day | like `day` | ডে |
-| E | ay | like `ay` in `say` | এ |
-| F | eff | like English `F` | এফ |
-| G | gay | hard `g` + `ay` | গে |
-| H | hah | like `hah` | হা |
-| I | ee | like `ee` in `see` | ই |
-| J | yot | starts like English `y` | ইয়ট |
-| K | kah | like `kah` | কা |
-| L | ell | like English `L` | এল |
-| M | em | like English `M` | এম |
-| N | en | like English `N` | এন |
-| O | oh | like `oh` | ও |
-| P | pay | like `pay` | পে |
-| Q | koo | like `koo` | কু |
-| R | air | soft throaty `air` | এয়র |
-| S | ess | like English `S` | এস |
-| T | tay | like `tay` | টে |
-| U | oo | like `oo` in `food` | উ |
-| V | fow | sounds like `f` + `ow` | ফাউ |
-| W | vay | sounds like English `V` | ভে |
-| X | iks | like `iks` | ইক্স |
-| Y | uep-see-lon | sounds like German `ü` | উপসিলন |
-| Z | tset | starts with `ts` | ৎসেট |
-| Ä | eh | like `e` in `bed`, longer | এ (লম্বা) |
-| Ö | er | like `er` in `her`, rounded lips | অ্যো (গোল ঠোঁট) |
-| Ü | ue | say `ee` with rounded lips | উয়ে (গোল ঠোঁট) |
-| ß | ess-tset | sharp `s`, like `ss` | এস্‌-ৎসেট |
+| A [🔊](audio/alphabet/a.m4a) | ah | like `a` in `father` | আ |
+| B [🔊](audio/alphabet/b.m4a) | bay | like `bay` | বে |
+| C [🔊](audio/alphabet/c.m4a) | tsay | starts with `ts` | ৎসে |
+| D [🔊](audio/alphabet/d.m4a) | day | like `day` | ডে |
+| E [🔊](audio/alphabet/e.m4a) | ay | like `ay` in `say` | এ |
+| F [🔊](audio/alphabet/f.m4a) | eff | like English `F` | এফ |
+| G [🔊](audio/alphabet/g.m4a) | gay | hard `g` + `ay` | গে |
+| H [🔊](audio/alphabet/h.m4a) | hah | like `hah` | হা |
+| I [🔊](audio/alphabet/i.m4a) | ee | like `ee` in `see` | ই |
+| J [🔊](audio/alphabet/j.m4a) | yot | starts like English `y` | ইয়ট |
+| K [🔊](audio/alphabet/k.m4a) | kah | like `kah` | কা |
+| L [🔊](audio/alphabet/l.m4a) | ell | like English `L` | এল |
+| M [🔊](audio/alphabet/m.m4a) | em | like English `M` | এম |
+| N [🔊](audio/alphabet/n.m4a) | en | like English `N` | এন |
+| O [🔊](audio/alphabet/o.m4a) | oh | like `oh` | ও |
+| P [🔊](audio/alphabet/p.m4a) | pay | like `pay` | পে |
+| Q [🔊](audio/alphabet/q.m4a) | koo | like `koo` | কু |
+| R [🔊](audio/alphabet/r.m4a) | air | soft throaty `air` | এয়র |
+| S [🔊](audio/alphabet/s.m4a) | ess | like English `S` | এস |
+| T [🔊](audio/alphabet/t.m4a) | tay | like `tay` | টে |
+| U [🔊](audio/alphabet/u.m4a) | oo | like `oo` in `food` | উ |
+| V [🔊](audio/alphabet/v.m4a) | fow | sounds like `f` + `ow` | ফাউ |
+| W [🔊](audio/alphabet/w.m4a) | vay | sounds like English `V` | ভে |
+| X [🔊](audio/alphabet/x.m4a) | iks | like `iks` | ইক্স |
+| Y [🔊](audio/alphabet/y.m4a) | uep-see-lon | sounds like German `ü` | উপসিলন |
+| Z [🔊](audio/alphabet/z.m4a) | tset | starts with `ts` | ৎসেট |
+| Ä [🔊](audio/alphabet/ae.m4a) | eh | like `e` in `bed`, longer | এ (লম্বা) |
+| Ö [🔊](audio/alphabet/oe.m4a) | er | like `er` in `her`, rounded lips | অ্যো (গোল ঠোঁট) |
+| Ü [🔊](audio/alphabet/ue.m4a) | ue | say `ee` with rounded lips | উয়ে (গোল ঠোঁট) |
+| ß [🔊](audio/alphabet/ss.m4a) | ess-tset | sharp `s`, like `ss` | এস্‌-ৎসেট |
 
 Memory hook: German `J` = English `Y`, German `W` = English `V`, German `V` = English `F`, German `Z` = `ts`.  
 মনে রাখার কৌশল: জার্মান `J` = ইংরেজি `Y`, জার্মান `W` = ইংরেজি `V`, জার্মান `V` = ইংরেজি `F`, জার্মান `Z` = `ts`।
@@ -191,12 +191,12 @@ Memory hook: German `J` = English `Y`, German `W` = English `V`, German `V` = En
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Mein Name ist Emma. | mine NAH-muh ist EM-mah | My name is Emma. | আমার নাম এমা। |
+| Mein Name ist Emma. [🔊](audio/phrases/welcome/mein-name-ist.m4a) | mine NAH-muh ist EM-mah | My name is Emma. | আমার নাম এমা। |
 | Mein Name ist Nico. | mine NAH-muh ist NEE-koh | My name is Nico. | আমার নাম নিকো। |
 | Und das ist meine Tante. | oont dahs ist MY-nuh TAHN-tuh | And this is my aunt. | আর এ আমার খালা/ফুপু। |
 | Adresse? Straße, Hausnummer? | ah-DRES-suh SHTRAH-suh HOWS-noom-er | Address? Street, house number? | ঠিকানা? রাস্তা, বাড়ি নম্বর? |
-| Wie schreibt man das? | vee shrybt man dahs | How do you spell that? | এটা কীভাবে বানান করা হয়? |
-| Noch einmal, bitte. | nokh EYN-mahl BIT-tuh | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। |
+| Wie schreibt man das? [🔊](audio/phrases/welcome/wie-schreibt-man-das.m4a) | vee shrybt man dahs | How do you spell that? | এটা কীভাবে বানান করা হয়? |
+| Noch einmal, bitte. [🔊](audio/phrases/welcome/noch-einmal-bitte.m4a) | nokh EYN-mahl BIT-tuh | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। |
 
 Quick note: this lesson connects names, spelling, and asking for more information.  
 দ্রুত নোট: এই lesson-এ name, spelling, আর extra information চাওয়া একসাথে আসে।
@@ -214,9 +214,9 @@ Use these three together when you miss something in real life.
 
 | German | English | Bangla |
 |---|---|---|
-| Entschuldigung. | Excuse me. | মাফ করবেন। |
-| Können Sie mir helfen? | Can you help me? | আপনি কি আমাকে সাহায্য করতে পারেন? |
-| Noch einmal, bitte. | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। |
+| Entschuldigung. | Excuse me. | মাফ করবেন। [🔊](audio/phrases/welcome/entschuldigung.m4a) |
+| Können Sie mir helfen? | Can you help me? | আপনি কি আমাকে সাহায্য করতে পারেন? [🔊](audio/phrases/welcome/koennen-sie-mir-helfen.m4a) |
+| Noch einmal, bitte. | Once again, please. | আরেকবার বলবেন, অনুগ্রহ করে। [🔊](audio/phrases/welcome/noch-einmal-bitte.m4a) |
 
 ## Speaking workbook
 

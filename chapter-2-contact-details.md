@@ -42,45 +42,45 @@ The `Say it` column uses simple English-style sounds.
 
 | Number | German | Say it | Bangla |
 |---|---|---|---|
-| 0 | null | nool | শূন্য |
-| 1 | eins | ayns | এক |
-| 2 | zwei | tsvye | দুই |
-| 3 | drei | drye | তিন |
-| 4 | vier | feer | চার |
-| 5 | fünf | fuenf | পাঁচ |
-| 6 | sechs | zeks | ছয় |
-| 7 | sieben | ZEE-ben | সাত |
-| 8 | acht | ahkht | আট |
-| 9 | neun | noyn | নয় |
-| 10 | zehn | tsayn | দশ |
-| 11 | elf | elf | এগারো |
-| 12 | zwölf | tsvelf | বারো |
+| 0 | null [🔊](audio/numbers/0.m4a) | nool | শূন্য |
+| 1 | eins [🔊](audio/numbers/1.m4a) | ayns | এক |
+| 2 | zwei [🔊](audio/numbers/2.m4a) | tsvye | দুই |
+| 3 | drei [🔊](audio/numbers/3.m4a) | drye | তিন |
+| 4 | vier [🔊](audio/numbers/4.m4a) | feer | চার |
+| 5 | fünf [🔊](audio/numbers/5.m4a) | fuenf | পাঁচ |
+| 6 | sechs [🔊](audio/numbers/6.m4a) | zeks | ছয় |
+| 7 | sieben [🔊](audio/numbers/7.m4a) | ZEE-ben | সাত |
+| 8 | acht [🔊](audio/numbers/8.m4a) | ahkht | আট |
+| 9 | neun [🔊](audio/numbers/9.m4a) | noyn | নয় |
+| 10 | zehn [🔊](audio/numbers/10.m4a) | tsayn | দশ |
+| 11 | elf [🔊](audio/numbers/11.m4a) | elf | এগারো |
+| 12 | zwölf [🔊](audio/numbers/12.m4a) | tsvelf | বারো |
 
 ### 13 to 19
 
 | Number | German | Say it | Bangla |
 |---|---|---|---|
-| 13 | dreizehn | DRYE-tsayn | তেরো |
-| 14 | vierzehn | FEER-tsayn | চৌদ্দ |
-| 15 | fünfzehn | FUENF-tsayn | পনেরো |
-| 16 | sechzehn | ZEKH-tsayn | ষোলো |
-| 17 | siebzehn | ZEEP-tsayn | সতেরো |
-| 18 | achtzehn | AHKHT-tsayn | আঠারো |
-| 19 | neunzehn | NOYN-tsayn | উনিশ |
+| 13 | dreizehn [🔊](audio/numbers/13.m4a) | DRYE-tsayn | তেরো |
+| 14 | vierzehn [🔊](audio/numbers/14.m4a) | FEER-tsayn | চৌদ্দ |
+| 15 | fünfzehn [🔊](audio/numbers/15.m4a) | FUENF-tsayn | পনেরো |
+| 16 | sechzehn [🔊](audio/numbers/16.m4a) | ZEKH-tsayn | ষোলো |
+| 17 | siebzehn [🔊](audio/numbers/17.m4a) | ZEEP-tsayn | সতেরো |
+| 18 | achtzehn [🔊](audio/numbers/18.m4a) | AHKHT-tsayn | আঠারো |
+| 19 | neunzehn [🔊](audio/numbers/19.m4a) | NOYN-tsayn | উনিশ |
 
 ### Tens (20 to 100)
 
 | Number | German | Say it | Bangla |
 |---|---|---|---|
-| 20 | zwanzig | TSVAHN-tsikh | বিশ |
-| 30 | dreißig | DRYE-sikh | ত্রিশ |
-| 40 | vierzig | FEER-tsikh | চল্লিশ |
-| 50 | fünfzig | FUENF-tsikh | পঞ্চাশ |
-| 60 | sechzig | ZEKH-tsikh | ষাট |
-| 70 | siebzig | ZEEP-tsikh | সত্তর |
-| 80 | achtzig | AHKHT-tsikh | আশি |
-| 90 | neunzig | NOYN-tsikh | নব্বই |
-| 100 | (ein)hundert | (ayn-)HOON-dert | একশ |
+| 20 | zwanzig [🔊](audio/numbers/20.m4a) | TSVAHN-tsikh | বিশ |
+| 30 | dreißig [🔊](audio/numbers/30.m4a) | DRYE-sikh | ত্রিশ |
+| 40 | vierzig [🔊](audio/numbers/40.m4a) | FEER-tsikh | চল্লিশ |
+| 50 | fünfzig [🔊](audio/numbers/50.m4a) | FUENF-tsikh | পঞ্চাশ |
+| 60 | sechzig [🔊](audio/numbers/60.m4a) | ZEKH-tsikh | ষাট |
+| 70 | siebzig [🔊](audio/numbers/70.m4a) | ZEEP-tsikh | সত্তর |
+| 80 | achtzig [🔊](audio/numbers/80.m4a) | AHKHT-tsikh | আশি |
+| 90 | neunzig [🔊](audio/numbers/90.m4a) | NOYN-tsikh | নব্বই |
+| 100 | (ein)hundert [🔊](audio/numbers/100.m4a) | (ayn-)HOON-dert | একশ |
 
 ### How to build 21 to 99
 
@@ -89,25 +89,25 @@ Pattern: small number + `und` + tens. Always one word.
 
 | Number | German | Say it | Bangla |
 |---|---|---|---|
-| 21 | einundzwanzig | AYN-oont-tsvahn-tsikh | একুশ |
-| 22 | zweiundzwanzig | TSVYE-oont-tsvahn-tsikh | বাইশ |
-| 31 | einunddreißig | AYN-oont-drye-sikh | একত্রিশ |
-| 38 | achtunddreißig | AHKHT-oont-drye-sikh | আটত্রিশ |
-| 44 | vierundvierzig | FEER-oont-feer-tsikh | চুয়াল্লিশ |
-| 67 | siebenundsechzig | ZEE-ben-oont-zekh-tsikh | সাতষট্‌ট্টি |
-| 83 | dreiundachtzig | DRYE-oont-ahkht-tsikh | তিরাশি |
-| 99 | neunundneunzig | NOYN-oont-noyn-tsikh | নিরানব্বই |
+| 21 | einundzwanzig [🔊](audio/numbers/21.m4a) | AYN-oont-tsvahn-tsikh | একুশ |
+| 22 | zweiundzwanzig [🔊](audio/numbers/22.m4a) | TSVYE-oont-tsvahn-tsikh | বাইশ |
+| 31 | einunddreißig [🔊](audio/numbers/31.m4a) | AYN-oont-drye-sikh | একত্রিশ |
+| 38 | achtunddreißig [🔊](audio/numbers/38.m4a) | AHKHT-oont-drye-sikh | আটত্রিশ |
+| 44 | vierundvierzig [🔊](audio/numbers/44.m4a) | FEER-oont-feer-tsikh | চুয়াল্লিশ |
+| 67 | siebenundsechzig [🔊](audio/numbers/67.m4a) | ZEE-ben-oont-zekh-tsikh | সাতষট্‌ট্টি |
+| 83 | dreiundachtzig [🔊](audio/numbers/83.m4a) | DRYE-oont-ahkht-tsikh | তিরাশি |
+| 99 | neunundneunzig [🔊](audio/numbers/99.m4a) | NOYN-oont-noyn-tsikh | নিরানব্বই |
 
 ### Above 100
 
 | Number | German | Say it | Bangla |
 |---|---|---|---|
-| 100 | (ein)hundert | (ayn-)HOON-dert | একশ |
-| 101 | hunderteins | HOON-dert-ayns | একশ এক |
-| 136 | hundertsechsunddreißig | HOON-dert-zeks-oont-drye-sikh | একশ ছত্রিশ |
-| 144 | hundertvierundvierzig | HOON-dert-feer-oont-feer-tsikh | একশ চুয়াল্লিশ |
-| 200 | zweihundert | TSVYE-hoon-dert | দুইশ |
-| 1000 | tausend | TOW-zent | এক হাজার |
+| 100 | (ein)hundert [🔊](audio/numbers/100.m4a) | (ayn-)HOON-dert | একশ |
+| 101 | hunderteins [🔊](audio/numbers/101.m4a) | HOON-dert-ayns | একশ এক |
+| 136 | hundertsechsunddreißig [🔊](audio/numbers/136.m4a) | HOON-dert-zeks-oont-drye-sikh | একশ ছত্রিশ |
+| 144 | hundertvierundvierzig [🔊](audio/numbers/144.m4a) | HOON-dert-feer-oont-feer-tsikh | একশ চুয়াল্লিশ |
+| 200 | zweihundert [🔊](audio/numbers/200.m4a) | TSVYE-hoon-dert | দুইশ |
+| 1000 | tausend [🔊](audio/numbers/1000.m4a) | TOW-zent | এক হাজার |
 
 Quick tips:
 
@@ -159,7 +159,7 @@ Scene cue: At Lotte's birthday, Lisa talks about age, and Nico hears a radio pho
 | German | Say it | English | Bangla |
 |---|---|---|---|
 | Wie alt ist Lotte jetzt? | vee alt ist LOT-tuh yetst | How old is Lotte now? | লোট্টের এখন বয়স কত? |
-| Sie ist acht. | zee ist ahkht | She is eight. | তার বয়স আট। |
+| Sie ist acht. [🔊](audio/phrases/chapter2/sie-ist-acht.m4a) | zee ist ahkht | She is eight. | তার বয়স আট। |
 | Emma ist auch acht Jahre alt. | EM-mah ist owkh ahkht YAH-ruh alt | Emma is also eight years old. | এমারও বয়স আট বছর। |
 | Die Telefonnummer ist 0800 7773344. | dee teh-leh-FOHN-noom-er ist null-acht-null-null ZEE-ben ZEE-ben ZEE-ben drye drye feer feer | The phone number is 0800 7773344. | ফোন নম্বর হলো 0800 7773344। |
 | dreimal die Sieben | DRYE-mahl dee ZEE-ben | three times the seven | তিনবার সাত |
@@ -184,12 +184,12 @@ Scene cue: Lisa exchanges numbers, then corrects Nico on the radio and spells ou
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Ist das eine Zwei oder eine Sieben? | ist dahs EYE-nuh tsvye OH-der EYE-nuh ZEE-ben | Is that a two or a seven? | এটা দুই না সাত? |
+| Ist das eine Zwei oder eine Sieben? [🔊](audio/phrases/chapter2/zwei-oder-sieben.m4a) | ist dahs EYE-nuh tsvye OH-der EYE-nuh ZEE-ben | Is that a two or a seven? | এটা দুই না সাত? |
 | Das ist eine Sieben. | dahs ist EYE-nuh ZEE-ben | That is a seven. | এটা সাত। |
 | Mein Name ist Lisa. | mine NAH-muh ist LEE-zah | My name is Lisa. | আমার নাম লিজা। |
 | Er sucht seine Tasche. | air zookht ZY-nuh TAH-shuh | He is looking for his bag. | সে তার ব্যাগ খুঁজছে। |
 | Die Tasche ist schwarz. | dee TAH-shuh ist shvarts | The bag is black. | ব্যাগটি কালো। |
-| Schreinerstraße 144 | SHRY-ner-shtrah-suh ein-hundert-feer-und-fair-tsikh | Schreiner Street 144 | Schreinerstraße 144 |
+| Schreinerstraße 144 [🔊](audio/phrases/chapter2/schreinerstrasse-144.m4a) | SHRY-ner-shtrah-suh ein-hundert-feer-und-fair-tsikh | Schreiner Street 144 | Schreinerstraße 144 |
 | mit R | mit air | with R | `R` দিয়ে |
 
 Quick note: when spelling an address, slow down and separate the street name from the house number.  
@@ -213,12 +213,12 @@ Scene cue: At the police station, Jürgen Brunner speaks formally with Nico and 
 |---|---|---|---|
 | Guten Tag, Jürgen Brunner mein Name. | GOO-ten tahk YUER-gen BROON-er mine NAH-muh | Good day, my name is Jürgen Brunner. | শুভ দিন, আমার নাম ইউর্গেন ব্রুনার। |
 | Sie sind Nico? | zee zint NEE-koh | Are you Nico? | আপনি কি নিকো? |
-| Herr González, freut mich sehr. | hair gon-SAH-les froyt mikh zair | Mr. González, pleased to meet you. | হের গনসালেস, আপনাকে পেয়ে ভালো লাগলো। |
-| Wie kann ich Ihnen helfen? | vee kahn ikh EE-nen HEL-fen | How can I help you? | আমি আপনাকে কীভাবে সাহায্য করতে পারি? |
-| Wie ist Ihr Geburtsdatum? | vee ist eer guh-BOORTS-dah-toom | What is your date of birth? | আপনার জন্মতারিখ কী? |
-| Ich wohne in der Wagnergasse 136. | ikh VOH-nuh in dair VAG-ner-gahs-suh ein-hundert-zeks-und-DRYE-sikh | I live at Wagnergasse 136. | আমি Wagnergasse 136-এ থাকি। |
-| Ihre Passnummer? | EE-ruh PASS-noom-er | Your passport number? | আপনার পাসপোর্ট নম্বর? |
-| Haben Sie eine Adresse? | HAH-ben zee EYE-nuh ah-DRES-suh | Do you have an address? | আপনার কি কোনো ঠিকানা আছে? |
+| Herr González, freut mich sehr. [🔊](audio/phrases/chapter2/herr-gonzalez.m4a) | hair gon-SAH-les froyt mikh zair | Mr. González, pleased to meet you. | হের গনসালেস, আপনাকে পেয়ে ভালো লাগলো। |
+| Wie kann ich Ihnen helfen? [🔊](audio/phrases/chapter2/wie-kann-ich-ihnen-helfen.m4a) | vee kahn ikh EE-nen HEL-fen | How can I help you? | আমি আপনাকে কীভাবে সাহায্য করতে পারি? |
+| Wie ist Ihr Geburtsdatum? [🔊](audio/phrases/chapter2/wie-ist-ihr-geburtsdatum.m4a) | vee ist eer guh-BOORTS-dah-toom | What is your date of birth? | আপনার জন্মতারিখ কী? |
+| Ich wohne in der Wagnergasse 136. [🔊](audio/phrases/chapter2/wagnergasse-136.m4a) | ikh VOH-nuh in dair VAG-ner-gahs-suh ein-hundert-zeks-und-DRYE-sikh | I live at Wagnergasse 136. | আমি Wagnergasse 136-এ থাকি। |
+| Ihre Passnummer? [🔊](audio/phrases/chapter2/ihre-passnummer.m4a) | EE-ruh PASS-noom-er | Your passport number? | আপনার পাসপোর্ট নম্বর? |
+| Haben Sie eine Adresse? [🔊](audio/phrases/chapter2/haben-sie-eine-adresse.m4a) | HAH-ben zee EYE-nuh ah-DRES-suh | Do you have an address? | আপনার কি কোনো ঠিকানা আছে? |
 
 Quick note: formal German here uses `Sie`, `Ihr`, and `Ihnen`.  
 দ্রুত নোট: এখানে formal German-এ `Sie`, `Ihr`, আর `Ihnen` ব্যবহার হয়।

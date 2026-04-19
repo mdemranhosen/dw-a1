@@ -48,9 +48,9 @@ Scene cue: In the car, Lisa and Emma practice introductions with Nico.
 | German | Say it | English | Bangla |
 |---|---|---|---|
 | Hallo! | hah-LOH | Hello! | হ্যালো! |
-| Wie heißt du? | vee HYST doo | What's your name? | তোমার নাম কী? |
-| Ich heiße Nico. | ikh HYE-suh NEE-koh | My name is Nico. | আমার নাম নিকো। |
-| Und wie heißt du? | oont vee HYST doo | And what's your name? | আর তোমার নাম কী? |
+| Wie heißt du? [🔊](audio/phrases/chapter1/wie-heisst-du.m4a) | vee HYST doo | What's your name? | তোমার নাম কী? |
+| Ich heiße Nico. [🔊](audio/phrases/chapter1/ich-heisse-nico.m4a) | ikh HYE-suh NEE-koh | My name is Nico. | আমার নাম নিকো। |
+| Und wie heißt du? [🔊](audio/phrases/chapter1/und-wie-heisst-du.m4a) | oont vee HYST doo | And what's your name? | আর তোমার নাম কী? |
 | Ich heiße Lisa. | ikh HYE-suh LEE-zah | My name is Lisa. | আমার নাম লিজা। |
 
 Quick note: `Ich heiße ...` is the main name pattern in this lesson.  
@@ -72,9 +72,9 @@ Scene cue: Lisa talks to the taxi driver and introduces Nico.
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Hallo, ich bin Lisa Brunner. | hah-LOH ikh bin LEE-zah BROON-er | Hello, I am Lisa Brunner. | হ্যালো, আমি লিজা ব্রুনার। |
-| Das ist Nico. | dahs ist NEE-koh | This is Nico. | এ হলো নিকো। |
-| Nico sucht seine Tasche. | NEE-koh zookht ZY-nuh TAH-shuh | Nico is looking for his bag. | নিকো তার ব্যাগ খুঁজছে। |
+| Hallo, ich bin Lisa Brunner. [🔊](audio/phrases/chapter1/ich-bin-lisa.m4a) | hah-LOH ikh bin LEE-zah BROON-er | Hello, I am Lisa Brunner. | হ্যালো, আমি লিজা ব্রুনার। |
+| Das ist Nico. [🔊](audio/phrases/chapter1/das-ist-nico.m4a) | dahs ist NEE-koh | This is Nico. | এ হলো নিকো। |
+| Nico sucht seine Tasche. [🔊](audio/phrases/chapter1/nico-sucht-seine-tasche.m4a) | NEE-koh zookht ZY-nuh TAH-shuh | Nico is looking for his bag. | নিকো তার ব্যাগ খুঁজছে। |
 | Ist Nicos Tasche in Ihrem Taxi? | ist NEE-kohs TAH-shuh in EE-rem TAK-see | Is Nico's bag in your taxi? | নিকোর ব্যাগ কি আপনার ট্যাক্সিতে আছে? |
 
 Quick note: `ich bin ...` introduces yourself, and `Das ist ...` introduces someone else.  
@@ -96,12 +96,12 @@ Scene cue: Max asks Nico who he is, where he comes from, and where he lives in S
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Wer bist du? | vair bist doo | Who are you? | তুমি কে? |
+| Wer bist du? [🔊](audio/phrases/chapter1/wer-bist-du.m4a) | vair bist doo | Who are you? | তুমি কে? |
 | Ich bin Nico. | ikh bin NEE-koh | I am Nico. | আমি নিকো। |
-| Woher kommst du? | voh-HAIR komst doo | Where are you from? | তুমি কোথা থেকে এসেছ? |
-| Ich komme aus Spanien. | ikh KOM-muh ows SHPAN-yen | I come from Spain. | আমি স্পেন থেকে এসেছি। |
-| Wo wohnst du? | voh VOHNST doo | Where do you live? | তুমি কোথায় থাকো? |
-| Ich wohne in Sevilla. | ikh VOH-nuh in seh-VIL-yah | I live in Seville. | আমি সেভিয়ায় থাকি। |
+| Woher kommst du? [🔊](audio/phrases/chapter1/woher-kommst-du.m4a) | voh-HAIR komst doo | Where are you from? | তুমি কোথা থেকে এসেছ? |
+| Ich komme aus Spanien. [🔊](audio/phrases/chapter1/ich-komme-aus-spanien.m4a) | ikh KOM-muh ows SHPAN-yen | I come from Spain. | আমি স্পেন থেকে এসেছি। |
+| Wo wohnst du? [🔊](audio/phrases/chapter1/wo-wohnst-du.m4a) | voh VOHNST doo | Where do you live? | তুমি কোথায় থাকো? |
+| Ich wohne in Sevilla. [🔊](audio/phrases/chapter1/ich-wohne-in-sevilla.m4a) | ikh VOH-nuh in seh-VIL-yah | I live in Seville. | আমি সেভিয়ায় থাকি। |
 
 Quick note: `woher` asks about origin, and `wo` asks about place.  
 দ্রুত নোট: `woher` দিয়ে origin জিজ্ঞেস করা হয়, আর `wo` দিয়ে place জিজ্ঞেস করা হয়।
@@ -122,11 +122,11 @@ Scene cue: Lisa calls her father and explains Nico's problem.
 
 | German | Say it | English | Bangla |
 |---|---|---|---|
-| Nico hat ein Problem. | NEE-koh haht ayn pro-BLEM | Nico has a problem. | নিকোর একটি সমস্যা আছে। |
+| Nico hat ein Problem. [🔊](audio/phrases/chapter1/nico-hat-ein-problem.m4a) | NEE-koh haht ayn pro-BLEM | Nico has a problem. | নিকোর একটি সমস্যা আছে। |
 | Er kommt aus Spanien. | air komt ows SHPAN-yen | He comes from Spain. | সে স্পেন থেকে এসেছে। |
-| Seine Tasche ist weg. | ZY-nuh TAH-shuh ist vek | His bag is gone. | তার ব্যাগ হারিয়ে গেছে। |
+| Seine Tasche ist weg. [🔊](audio/phrases/chapter1/seine-tasche-ist-weg.m4a) | ZY-nuh TAH-shuh ist vek | His bag is gone. | তার ব্যাগ হারিয়ে গেছে। |
 | Er spricht nicht gut Deutsch. | air shprikht nikht goot doych | He doesn't speak German well. | সে ভালো জার্মান বলতে পারে না। |
-| Seine Tante wohnt in Deutschland. | ZY-nuh TAHN-tuh vohnt in DOYTCH-lahnt | His aunt lives in Germany. | তার খালা/ফুপু জার্মানিতে থাকেন। |
+| Seine Tante wohnt in Deutschland. [🔊](audio/phrases/chapter1/seine-tante-wohnt.m4a) | ZY-nuh TAHN-tuh vohnt in DOYTCH-lahnt | His aunt lives in Germany. | তার খালা/ফুপু জার্মানিতে থাকেন। |
 | Seine Tante hat ein Fahrradgeschäft. | ZY-nuh TAHN-tuh haht ayn FAH-rad-guh-sheft | His aunt has a bicycle shop. | তার খালা/ফুপুর একটি সাইকেলের দোকান আছে। |
 
 Quick note: `er` means `he`, and `seine` means `his`. These help you describe another person.  
